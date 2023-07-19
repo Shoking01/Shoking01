@@ -2,7 +2,9 @@
 - 👀 I’m interested in Learning Software Development
 - 🌱 I’m currently learning JS 
 - 💞️ I’m looking to collaborate on Web Sites
-- 📫 You can contact me on quirosadrian941@gmail.com
+- 📫 You can contact me on quirosadrian941@gmail.com[
+
+I am an student of Web Development at the moment.
 
 <!---
 Shoking01/Shoking01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
