@@ -1,7 +1,7 @@
-# 👋 Hey there! I'm Adrián Quirós
+# 👋 Hello! I'm Adrián Quirós
 
 🎓 Full Stack Web Developer passionate about building dynamic and accessible web applications.  
-📚 Constantly learning and improving my skills through real-world projects.  
+📚 Constantly learning and improving my skills through projects.  
 💻 I enjoy working across the stack and love clean, maintainable code.
 
 ---
